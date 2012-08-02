@@ -1,0 +1,7 @@
+#ignore term files created by macos
+
+.DS_Store
+
+#ignore node modules
+
+node_modules/*
