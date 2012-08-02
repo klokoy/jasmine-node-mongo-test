@@ -1,0 +1,19 @@
+{
+  "author": "Kim Lokøy <kim.lokoy@gmail.com>",
+  "name": "jasmine-node-mongodb-test",
+  "description": "Small jasmine-node test to test mongodb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/klokoy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/klokoy.git"
+  },
+  "dependencies": {
+    "mongoose": ">= 2.7.0" 
+    },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "<= 0.6.11"
+  }
+}
